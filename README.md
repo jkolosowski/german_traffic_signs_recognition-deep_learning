@@ -1,2 +1,13 @@
-# german_traffic_signs_recognition-deep_learning
-German traffic signs recognition - neural networks project for University class Artificial Intelligence
+# Deep learning project - German traffic signs recognition
+
+Database: *https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign*
+
+### Tools
+- Tensorflow
+- sklearn
+
+### Scores
+
+Neural network accuracy: **91.01 %**
+
+Convolutional neural network accuracy: **98.23 %**
